@@ -1,124 +1,124 @@
 [[SpheroidalWaves]]
 arch = "aarch64"
-git-tree-sha1 = "f65fd8a04dc1f87d128f9886ccf53bb94b02ab16"
+git-tree-sha1 = "791503b9a6220d4aaa150008839d2e2f88c5641c"
 libgfortran_version = "5.0.0"
 os = "macos"
 
     [[SpheroidalWaves.download]]
-    sha256 = "a9f6c54b0fef973578b584693d1657dad6a7cad12e8faaed31579d5be2238fc3"
-    url = "https://github.com/JuliaBinaryWrappers/SpheroidalWaves_jll.jl/releases/download/SpheroidalWaves-v0.5.0+0/SpheroidalWaves.v0.5.0.aarch64-apple-darwin-libgfortran5.tar.gz"
+    sha256 = "a9d06f3d3a241aab2a8544e6205e6abe18b816a786f0c6db7edf8f3ad8db6ae0"
+    url = "https://github.com/JuliaBinaryWrappers/SpheroidalWaves_jll.jl/releases/download/SpheroidalWaves-v0.6.0+0/SpheroidalWaves.v0.6.0.aarch64-apple-darwin-libgfortran5.tar.gz"
 [[SpheroidalWaves]]
 arch = "aarch64"
-git-tree-sha1 = "455cd45adc933564bdfb151ed740194893f839c7"
+git-tree-sha1 = "d442e5cd9ae2c2e3e0d964f7ea4478a804f657b1"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SpheroidalWaves.download]]
-    sha256 = "0daf74ed8a51101ea49c2b2ce4a008ae7d60937f5130ab954a833012e6924944"
-    url = "https://github.com/JuliaBinaryWrappers/SpheroidalWaves_jll.jl/releases/download/SpheroidalWaves-v0.5.0+0/SpheroidalWaves.v0.5.0.aarch64-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "edcf71b9bb42fffa8e6bdd831402633270403b3aa287ae648cd84a8519e8157c"
+    url = "https://github.com/JuliaBinaryWrappers/SpheroidalWaves_jll.jl/releases/download/SpheroidalWaves-v0.6.0+0/SpheroidalWaves.v0.6.0.aarch64-linux-gnu-libgfortran5.tar.gz"
 [[SpheroidalWaves]]
 arch = "aarch64"
-git-tree-sha1 = "7776f64074cece56b170a3b6045a48c22a9e0068"
+git-tree-sha1 = "46a45e6b0e0f4ce2c67603c5b21e43449041b1ad"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SpheroidalWaves.download]]
-    sha256 = "e85d8de692eb2632d998f2469263dc37897bb5223edad0e7db3f15233b7a99eb"
-    url = "https://github.com/JuliaBinaryWrappers/SpheroidalWaves_jll.jl/releases/download/SpheroidalWaves-v0.5.0+0/SpheroidalWaves.v0.5.0.aarch64-linux-musl-libgfortran5.tar.gz"
+    sha256 = "e5371fc3d456af4c13889633a408739a9fdda7fed5ecb2761a869b9b3bc931c5"
+    url = "https://github.com/JuliaBinaryWrappers/SpheroidalWaves_jll.jl/releases/download/SpheroidalWaves-v0.6.0+0/SpheroidalWaves.v0.6.0.aarch64-linux-musl-libgfortran5.tar.gz"
 [[SpheroidalWaves]]
 arch = "aarch64"
-git-tree-sha1 = "1cf9998f0ee47868b58e15a36ea879587ca2e67b"
+git-tree-sha1 = "af8664ba87ffb575717c288b696e3d9f3e221f11"
 libgfortran_version = "5.0.0"
 os = "freebsd"
 
     [[SpheroidalWaves.download]]
-    sha256 = "e8d76af160c9cb7211b76e162507878fdbc43cdf90a5b23840ce3e73fe7d3e59"
-    url = "https://github.com/JuliaBinaryWrappers/SpheroidalWaves_jll.jl/releases/download/SpheroidalWaves-v0.5.0+0/SpheroidalWaves.v0.5.0.aarch64-unknown-freebsd-libgfortran5.tar.gz"
+    sha256 = "afe2668cf4cf7a93d6776429c4b0a3754cdaecc64f4b49488862de1f24817393"
+    url = "https://github.com/JuliaBinaryWrappers/SpheroidalWaves_jll.jl/releases/download/SpheroidalWaves-v0.6.0+0/SpheroidalWaves.v0.6.0.aarch64-unknown-freebsd-libgfortran5.tar.gz"
 [[SpheroidalWaves]]
 arch = "i686"
-git-tree-sha1 = "bd331bd21f901dafb0cfe5e08c9735297f5c9e9f"
+git-tree-sha1 = "a92e88ee556723143007fc7bccbb4dca539b67f8"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SpheroidalWaves.download]]
-    sha256 = "dbc7ec6701d02fced6ca329e4926abe9aeddd2c3e1202ea0861f299cc4d0a285"
-    url = "https://github.com/JuliaBinaryWrappers/SpheroidalWaves_jll.jl/releases/download/SpheroidalWaves-v0.5.0+0/SpheroidalWaves.v0.5.0.i686-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "0d929d35ae19eaba748e8ebd46c01beace289b0dc089e8a0feae03fbccee0bc4"
+    url = "https://github.com/JuliaBinaryWrappers/SpheroidalWaves_jll.jl/releases/download/SpheroidalWaves-v0.6.0+0/SpheroidalWaves.v0.6.0.i686-linux-gnu-libgfortran5.tar.gz"
 [[SpheroidalWaves]]
 arch = "i686"
-git-tree-sha1 = "64ec588e7415f5934e2a0be1b84a8e50541f5036"
+git-tree-sha1 = "4a1ab2efd086cc4156d95c28d254180f7b968d6a"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SpheroidalWaves.download]]
-    sha256 = "3af7432185dece0ffdc32a9beecbec1c03d0889583c4361204916cee5a5a465e"
-    url = "https://github.com/JuliaBinaryWrappers/SpheroidalWaves_jll.jl/releases/download/SpheroidalWaves-v0.5.0+0/SpheroidalWaves.v0.5.0.i686-linux-musl-libgfortran5.tar.gz"
+    sha256 = "0b4a2f4141bafaf3f2d93db771a790e7e4c37f66b78780f52ed0ba7acca3fbf8"
+    url = "https://github.com/JuliaBinaryWrappers/SpheroidalWaves_jll.jl/releases/download/SpheroidalWaves-v0.6.0+0/SpheroidalWaves.v0.6.0.i686-linux-musl-libgfortran5.tar.gz"
 [[SpheroidalWaves]]
 arch = "i686"
-git-tree-sha1 = "daef7ada9698bd76831294573ffcae51ad5bdf28"
+git-tree-sha1 = "94f3cde9de59dbe0b9190c0aae50ba8c15ff85b1"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[SpheroidalWaves.download]]
-    sha256 = "2d42f09ca9dd7157fdd134310882cdd74454fdf58a32f16ff0e2b834451d3174"
-    url = "https://github.com/JuliaBinaryWrappers/SpheroidalWaves_jll.jl/releases/download/SpheroidalWaves-v0.5.0+0/SpheroidalWaves.v0.5.0.i686-w64-mingw32-libgfortran5.tar.gz"
+    sha256 = "27ad4a0d807bfb249df9a8b6a62d68138b803be6eecd2773e2c93a082dbe1891"
+    url = "https://github.com/JuliaBinaryWrappers/SpheroidalWaves_jll.jl/releases/download/SpheroidalWaves-v0.6.0+0/SpheroidalWaves.v0.6.0.i686-w64-mingw32-libgfortran5.tar.gz"
 [[SpheroidalWaves]]
 arch = "riscv64"
-git-tree-sha1 = "4bf8c2ce8a69e3cb8bbe2d239e8c7e33778797ea"
+git-tree-sha1 = "f31baa24f036d3c74eee46727f3b13117d7d2db6"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SpheroidalWaves.download]]
-    sha256 = "7f765809f8fa15a40539d1c347c2d8fd6a8bdfc7a79864ca782b57dd18d7281e"
-    url = "https://github.com/JuliaBinaryWrappers/SpheroidalWaves_jll.jl/releases/download/SpheroidalWaves-v0.5.0+0/SpheroidalWaves.v0.5.0.riscv64-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "2c9fd89d4a039f013922135e7e4d40a9f95323eabbdfe19fbc7d9d5ffcd68fd5"
+    url = "https://github.com/JuliaBinaryWrappers/SpheroidalWaves_jll.jl/releases/download/SpheroidalWaves-v0.6.0+0/SpheroidalWaves.v0.6.0.riscv64-linux-gnu-libgfortran5.tar.gz"
 [[SpheroidalWaves]]
 arch = "x86_64"
-git-tree-sha1 = "f70bc5ad83040b53c6b60cba2bcf094a5f9aad21"
+git-tree-sha1 = "34a61077b82a05605e967d910dad09e2be8fbee7"
 libgfortran_version = "5.0.0"
 os = "macos"
 
     [[SpheroidalWaves.download]]
-    sha256 = "58bb510c50073caf94fd073f6743440fc84d0aac96ecc161f5fc063a054e145b"
-    url = "https://github.com/JuliaBinaryWrappers/SpheroidalWaves_jll.jl/releases/download/SpheroidalWaves-v0.5.0+0/SpheroidalWaves.v0.5.0.x86_64-apple-darwin-libgfortran5.tar.gz"
+    sha256 = "a8c30caf05622fee3eac4986be03d7eee77c66568443bc7d0f506da71a865340"
+    url = "https://github.com/JuliaBinaryWrappers/SpheroidalWaves_jll.jl/releases/download/SpheroidalWaves-v0.6.0+0/SpheroidalWaves.v0.6.0.x86_64-apple-darwin-libgfortran5.tar.gz"
 [[SpheroidalWaves]]
 arch = "x86_64"
-git-tree-sha1 = "e70444611a223446969fe081b104cc3597f2b669"
+git-tree-sha1 = "279fd4a118d1a575bf53d3d025ed79a958598859"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SpheroidalWaves.download]]
-    sha256 = "cce9cbca4ffe9ab168999a604f3d05149954b662eedad5d83ee0333a03087d3f"
-    url = "https://github.com/JuliaBinaryWrappers/SpheroidalWaves_jll.jl/releases/download/SpheroidalWaves-v0.5.0+0/SpheroidalWaves.v0.5.0.x86_64-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "2b05c01aa87f410f7e5a546950fdd196cc5445ffa6e953b3e5d4ff2fbd49ab6f"
+    url = "https://github.com/JuliaBinaryWrappers/SpheroidalWaves_jll.jl/releases/download/SpheroidalWaves-v0.6.0+0/SpheroidalWaves.v0.6.0.x86_64-linux-gnu-libgfortran5.tar.gz"
 [[SpheroidalWaves]]
 arch = "x86_64"
-git-tree-sha1 = "de49fc45926748051d355ae453fef9251d59f44e"
+git-tree-sha1 = "0888e033949a522f0cb474b88c2b326c4c7e568e"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SpheroidalWaves.download]]
-    sha256 = "a75f5ea5ccacd6f91763870da1cdad186e08ef2c783a01293074c6433a2261c8"
-    url = "https://github.com/JuliaBinaryWrappers/SpheroidalWaves_jll.jl/releases/download/SpheroidalWaves-v0.5.0+0/SpheroidalWaves.v0.5.0.x86_64-linux-musl-libgfortran5.tar.gz"
+    sha256 = "397f950255b8d7cb2dbd0b332781f70153236c90172127ca1628a573628469a8"
+    url = "https://github.com/JuliaBinaryWrappers/SpheroidalWaves_jll.jl/releases/download/SpheroidalWaves-v0.6.0+0/SpheroidalWaves.v0.6.0.x86_64-linux-musl-libgfortran5.tar.gz"
 [[SpheroidalWaves]]
 arch = "x86_64"
-git-tree-sha1 = "cebf92d4f6c85302e71031b1a01fc741a7e56081"
+git-tree-sha1 = "a9ea5944a0595c13db0c7937a6c2c0c682b1c5be"
 libgfortran_version = "5.0.0"
 os = "freebsd"
 
     [[SpheroidalWaves.download]]
-    sha256 = "8bc460f80738bacabc2d9b0e165c0f1d2606ed8eb13a08eeafc5f9b80f338af2"
-    url = "https://github.com/JuliaBinaryWrappers/SpheroidalWaves_jll.jl/releases/download/SpheroidalWaves-v0.5.0+0/SpheroidalWaves.v0.5.0.x86_64-unknown-freebsd-libgfortran5.tar.gz"
+    sha256 = "e76c739e2c7b69a1a92abb8091060cbd6cb5002d25c9999b7e475cb1a6260e8e"
+    url = "https://github.com/JuliaBinaryWrappers/SpheroidalWaves_jll.jl/releases/download/SpheroidalWaves-v0.6.0+0/SpheroidalWaves.v0.6.0.x86_64-unknown-freebsd-libgfortran5.tar.gz"
 [[SpheroidalWaves]]
 arch = "x86_64"
-git-tree-sha1 = "6bc5a787553848afdf137076a05692aaa8cdb460"
+git-tree-sha1 = "4b33f3f0bc63d2e9855da7c6c25f7a4a95895ec0"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[SpheroidalWaves.download]]
-    sha256 = "0682f399bfb261e3bd8bf8ba11bc4127df80697f6c8f9a890701fd43c5590ebe"
-    url = "https://github.com/JuliaBinaryWrappers/SpheroidalWaves_jll.jl/releases/download/SpheroidalWaves-v0.5.0+0/SpheroidalWaves.v0.5.0.x86_64-w64-mingw32-libgfortran5.tar.gz"
+    sha256 = "cacaafb6f7372e80fda4b6db61546c4163726594d6300722cc2a0825e48e72cb"
+    url = "https://github.com/JuliaBinaryWrappers/SpheroidalWaves_jll.jl/releases/download/SpheroidalWaves-v0.6.0+0/SpheroidalWaves.v0.6.0.x86_64-w64-mingw32-libgfortran5.tar.gz"
