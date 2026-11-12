@@ -1,15 +1,18 @@
+version = "0.7.0+0"
 name = "SpheroidalWaves_jll"
 uuid = "a34cad3f-f691-5efd-970c-48ef20c3665d"
-version = "0.6.0+0"
 
 [deps]
-JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
-CompilerSupportLibraries_jll = "e66e0078-7015-5450-92f7-15fbd957f2ae"
+GMP_jll = "781609d7-10c4-51f6-84f2-b8444358ff6d"
 Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
 Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+MPC_jll = "2ce0c516-f11f-5db3-98ad-e0e1048fbd70"
+CompilerSupportLibraries_jll = "e66e0078-7015-5450-92f7-15fbd957f2ae"
+MPFR_jll = "3a97d323-0669-5f0c-9066-3539efd106a3"
 
 [compat]
-JLLWrappers = "1.7.0"
-julia = "1.10"
 Libdl = "< 0.0.1, 1"
+julia = "1.10"
+JLLWrappers = "1.7.0"
 Artifacts = "< 0.0.1, 1"
